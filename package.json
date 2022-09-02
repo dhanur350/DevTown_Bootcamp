@@ -1,0 +1,19 @@
+{
+  "name": "devtown_bootcamp",
+  "version": "1.0.0",
+  "description": "Devtown ReactJS HTML CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhanur350/DevTown_Bootcamp.git"
+  },
+  "author": "dhanur350",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhanur350/DevTown_Bootcamp/issues"
+  },
+  "homepage": "https://github.com/dhanur350/DevTown_Bootcamp#readme"
+}
