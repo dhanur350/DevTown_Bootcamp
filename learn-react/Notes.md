@@ -1,3 +1,7 @@
+# If npm denies to install React due to node version 12 then install these
+- npm install -g create-react-app@3.4.1
+- create-react-app my-app --scripts-version 3.1.1
+
 ## Run `npm audit` for details.
 
 - Success! Created learn-react at /home/dk/Documents/Code/Web Development Line/DevTown_Bootcamp/-  learn-react
